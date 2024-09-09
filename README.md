@@ -2,11 +2,7 @@
 # Group Project: Content Based Filtering
 # Data Set: Multi-aspect Reviews
 # Group Number 6
-# Name: 
-# 1) Mahmood Topiwala
-# 2) Anurag Shukla
-# 3) Tanaz Pathan
-# 4) Vrishmi Parikh
+
 ## Data Analysis
 * Metadata of the data
     - `beer/name`: The name of the beer.
